@@ -1,0 +1,1 @@
+{"name":"Local: 随机选择求数组第k大数","url":"d:\\1_Learn\\C++\\vJudge\\分治\\随机选择求数组第k大数.cpp","tests":[{"id":1749051974354,"input":"8 6\n3 6 2 7 5 2 4 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\vJudge\\分治\\随机选择求数组第k大数.cpp","group":"local","local":true}

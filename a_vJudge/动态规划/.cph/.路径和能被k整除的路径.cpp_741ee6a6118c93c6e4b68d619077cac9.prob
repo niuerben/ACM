@@ -1,0 +1,1 @@
+{"name":"Local: 路径和能被k整除的路径","url":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\路径和能被k整除的路径.cpp","tests":[{"id":1752488258386,"input":"3 3 3\n2 3 5\n4 1 2\n3 3 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\路径和能被k整除的路径.cpp","group":"local","local":true}

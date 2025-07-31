@@ -1,0 +1,1 @@
+{"name":"Local: 种树","url":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\种树.cpp","tests":[{"id":1747752952174,"input":"6 3 \n100 1 -1 100 1 -1","output":"200"},{"id":1747753094390,"input":"5 3\n100 140 100 0 150","output":"350"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\种树.cpp","group":"local","local":true}

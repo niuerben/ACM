@@ -1,0 +1,1 @@
+{"name":"Local: 最大深度和最小深度","url":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\最大深度和最小深度.cpp","tests":[{"id":1750492335904,"input":"ABC00EF0G000D00","output":"5\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\最大深度和最小深度.cpp","group":"local","local":true}

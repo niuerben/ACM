@@ -1,0 +1,1 @@
+{"name":"Local: Working Sheduling G","url":"d:\\1_Learn\\C++\\vJudge\\贪心\\Working Sheduling G.cpp","tests":[{"id":1749906746053,"input":"13 3\n1 1 4 5 1 4 1 9 1 9 8 1 0","output":"26"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\vJudge\\贪心\\Working Sheduling G.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: l","url":"d:\\1_Learn\\CppLearn\\aTest\\l.cpp","tests":[{"id":1746165089892,"input":"7\n1 9 1 9 8 1 0","output":"5"},{"id":1746165144363,"input":"5 6","output":"0"},{"id":1746181677873,"input":"100000 1000","output":"258189989"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\aTest\\l.cpp","group":"local","local":true}

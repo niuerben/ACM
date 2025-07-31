@@ -1,0 +1,1 @@
+{"name":"Local: 相似字符串组","url":"d:\\1_Learn\\ACM\\a_vJudge\\并查集\\相似字符串组.cpp","tests":[{"id":1752667187881,"input":"4\natt\ntaa\ntat\nast","output":"共有3种相似字符串组"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\并查集\\相似字符串组.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 普通二叉树上求解LCA","url":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\普通二叉树上求解LCA.cpp","tests":[{"id":1751472700790,"input":"ABC##EF#G###D##","output":"B"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\普通二叉树上求解LCA.cpp","group":"local","local":true}

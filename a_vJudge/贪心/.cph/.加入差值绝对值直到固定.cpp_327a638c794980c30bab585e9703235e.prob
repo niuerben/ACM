@@ -1,0 +1,1 @@
+{"name":"Local: 加入差值绝对值直到固定","url":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\加入差值绝对值直到固定.cpp","tests":[{"id":1747750148289,"input":"3\n2 4 6","output":"3"},{"id":1747750156255,"input":"2\n2 7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\加入差值绝对值直到固定.cpp","group":"local","local":true}

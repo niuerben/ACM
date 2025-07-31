@@ -1,0 +1,1 @@
+{"name":"Local: 斐波那契数列第n项目plus","url":"d:\\1_Learn\\C++\\vJudge\\分治\\斐波那契数列第n项目plus.cpp","tests":[{"id":1748962880468,"input":"1\n2\n20\n100000000","output":"1\n1\n6765\n908460138"},{"id":1748963473618,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\vJudge\\分治\\斐波那契数列第n项目plus.cpp","group":"local","local":true}

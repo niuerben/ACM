@@ -1,0 +1,1 @@
+{"name":"Local: OutOfHayS","url":"d:\\1_Learn\\ACM\\a_vJudge\\并查集\\OutOfHayS.cpp","tests":[{"id":1752716427653,"input":"3 3\n1 2 23\n2 3 1000\n1 3 43","output":"43"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\并查集\\OutOfHayS.cpp","group":"local","local":true}

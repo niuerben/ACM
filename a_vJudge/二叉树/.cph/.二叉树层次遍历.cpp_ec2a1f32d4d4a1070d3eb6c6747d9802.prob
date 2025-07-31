@@ -1,0 +1,1 @@
+{"name":"Local: 二叉树层次遍历","url":"d:\\1_Learn\\C++\\vJudge\\二叉树\\二叉树层次遍历.cpp","tests":[{"id":1750320156820,"input":"2\nAB0C00D00\nABCD00E000FG00H0I00","output":"ABDC\nABFCGHDEI"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\vJudge\\二叉树\\二叉树层次遍历.cpp","group":"local","local":true}

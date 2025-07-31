@@ -1,0 +1,1 @@
+{"name":"Local: 会议室Ⅱ","url":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\会议室Ⅱ.cpp","tests":[{"id":1747578093464,"input":"5\n1 4\n2 4\n3 4\n4 5\n5 6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\会议室Ⅱ.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 二叉树上的打家劫舍问题","url":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\二叉树上的打家劫舍问题.cpp","tests":[{"id":1751506800483,"input":"5 3 2 -1 -1 4 -1 -1 7 6 -1 -1 8 -1 -1","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\二叉树上的打家劫舍问题.cpp","group":"local","local":true}

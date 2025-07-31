@@ -1,0 +1,1 @@
+{"name":"Local: 统计解码方案2","url":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\统计解码方案2.cpp","tests":[{"id":1751965333859,"input":"1106","output":"1"},{"id":1751965343620,"input":"11106","output":"2"},{"id":1751965350188,"input":"**","output":"26"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\统计解码方案2.cpp","group":"local","local":true}

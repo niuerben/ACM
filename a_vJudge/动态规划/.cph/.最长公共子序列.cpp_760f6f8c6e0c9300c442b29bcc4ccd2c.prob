@@ -1,0 +1,1 @@
+{"name":"Local: 最长公共子序列","url":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\最长公共子序列.cpp","tests":[{"id":1751984791918,"input":"abcfbc abfcab\nprogramming contest \nabcd mnp","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\最长公共子序列.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: segments","url":"d:\\1_Learn\\ACM\\a_vJudge\\计算几何\\segments.cpp","tests":[{"id":1753849603362,"input":"2\n0 0 0 2\n2 0 2 2","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\计算几何\\segments.cpp","group":"local","local":true}

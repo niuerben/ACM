@@ -1,0 +1,1 @@
+{"name":"Local: 括号序列","url":"d:\\1_Learn\\CppLearn\\vJudge\\栈\\括号序列.cpp","tests":[{"id":1748416314501,"input":"(())()(","output":"(())()()"},{"id":1748416321904,"input":"))((","output":"(())()()"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\栈\\括号序列.cpp","group":"local","local":true}

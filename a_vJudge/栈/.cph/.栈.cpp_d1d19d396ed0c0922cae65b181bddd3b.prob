@@ -1,0 +1,1 @@
+{"name":"Local: 栈","url":"d:\\1_Learn\\CppLearn\\vJudge\\栈\\栈.cpp","tests":[{"id":1748337248802,"input":"2\n5\npush 2\nquery\nsize\npop\nquery\n3\npop\nquery\nsize","output":"2\n1\nAnguei!\nEmpty\nAnguei!\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\栈\\栈.cpp","group":"local","local":true}

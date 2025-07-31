@@ -1,0 +1,1 @@
+{"name":"Local: 最有装载","url":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\最有装载.cpp","tests":[{"id":1747656019515,"input":"1\n10 4\n3\n4\n5\n6\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\最有装载.cpp","group":"local","local":true}

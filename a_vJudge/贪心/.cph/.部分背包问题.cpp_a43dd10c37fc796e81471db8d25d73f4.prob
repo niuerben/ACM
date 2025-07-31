@@ -1,0 +1,1 @@
+{"name":"Local: 部分背包问题","url":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\部分背包问题.cpp","tests":[{"id":1747579084585,"input":"4 50\n10 60\n20 100\n30 120\n15 45\n","output":"240.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\部分背包问题.cpp","group":"local","local":true}

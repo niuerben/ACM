@@ -1,0 +1,1 @@
+{"name":"Local: 字典序最小的排列","url":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\字典序最小的排列.cpp","tests":[{"id":1747568747977,"input":"3\nab bc ef","output":""},{"id":1747568761879,"input":"3\nab a ef","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\字典序最小的排列.cpp","group":"local","local":true}

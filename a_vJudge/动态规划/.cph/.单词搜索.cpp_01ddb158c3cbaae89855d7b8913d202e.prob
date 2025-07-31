@@ -1,0 +1,1 @@
+{"name":"Local: 单词搜索","url":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\单词搜索.cpp","tests":[{"id":1752025113748,"input":"3 4\nB B C E\nG A C S\nA D E E\nABCCED","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\单词搜索.cpp","group":"local","local":true}

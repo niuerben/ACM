@@ -1,0 +1,1 @@
+{"name":"Local: 一和零多维费用背包","url":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\一和零多维费用背包.cpp","tests":[{"id":1752419098017,"input":"5 5 3\n10 0001 111001 1 0","output":"4"},{"id":1752420126379,"input":"3 1 1\n10 0 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\动态规划\\一和零多维费用背包.cpp","group":"local","local":true}

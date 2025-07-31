@@ -1,0 +1,1 @@
+{"name":"Local: KMP算法","url":"d:\\1_Learn\\C++\\a_vJudge\\KMP算法\\KMP算法.cpp","tests":[{"id":1750843217448,"input":"abcdabc\ncda\n-1 0 0 0 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\a_vJudge\\KMP算法\\KMP算法.cpp","group":"local","local":true}

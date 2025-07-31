@@ -1,0 +1,1 @@
+{"name":"Local: pick_up_sticks","url":"d:\\1_Learn\\ACM\\a_vJudge\\计算几何\\pick_up_sticks.cpp","tests":[{"id":1753758299631,"input":"3\n1 0 -1 0\n0 1 0 -1\n4 4 4 5","output":"2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\ACM\\a_vJudge\\计算几何\\pick_up_sticks.cpp","group":"local","local":true}

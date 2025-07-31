@@ -1,0 +1,1 @@
+{"name":"Local: 最小二乘法","url":"d:\\1_Learn\\CppLearn\\record\\最小二乘法.cpp","tests":[{"id":1746602834493,"input":"6\n36.9 46.7 63.7 77.8 84.0 87.5\n181 197 235 270 283 292","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\record\\最小二乘法.cpp","group":"local","local":true}

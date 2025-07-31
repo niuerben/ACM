@@ -1,0 +1,1 @@
+{"name":"Local: 搜索二叉树上求解LCA","url":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\搜索二叉树上求解LCA.cpp","tests":[{"id":1751474179957,"input":"5\n3 1 2 4 5\n1 2","output":"1"},{"id":1751474736640,"input":"5\n3 1 2 4 5\n2 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\a_vJudge\\二叉树\\搜索二叉树上求解LCA.cpp","group":"local","local":true}

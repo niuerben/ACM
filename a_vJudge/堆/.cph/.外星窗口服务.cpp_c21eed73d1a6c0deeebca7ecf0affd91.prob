@@ -1,0 +1,1 @@
+{"name":"Local: 外星窗口服务","url":"d:\\1_Learn\\CppLearn\\vJudge\\优先队列\\外星窗口服务.cpp","tests":[{"id":1748519844591,"input":"14\n1 81\n2\n1 17\n1 77\n2\n1 101\n1 66\n1 120\n1 68\n1 120\n1 89\n1 87\n2\n2\n","output":"81\n17\n66\n68\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\优先队列\\外星窗口服务.cpp","group":"local","local":true}

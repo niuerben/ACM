@@ -1,0 +1,1 @@
+{"name":"Local: 列表数字都占的最小区间","url":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\列表数字都占的最小区间.cpp","tests":[{"id":1747815051458,"input":"3\n5 4 10 15 24 26\n4 0 9 12 20\n4 5 18 22 30","output":"20 24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\vJudge\\贪心\\列表数字都占的最小区间.cpp","group":"local","local":true}

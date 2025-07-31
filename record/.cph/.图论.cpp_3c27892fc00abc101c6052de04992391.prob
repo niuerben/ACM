@@ -1,0 +1,1 @@
+{"name":"Local: 图论","url":"d:\\1_Learn\\CppLearn\\record\\图论.cpp","tests":[{"id":1747145863170,"input":"4 5 4 3\n4 2 30\n4 3 20\n2 3 20\n2 1 30\n1 3 30\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\CppLearn\\record\\图论.cpp","group":"local","local":true}

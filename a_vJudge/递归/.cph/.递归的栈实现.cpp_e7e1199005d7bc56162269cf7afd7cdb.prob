@@ -1,0 +1,1 @@
+{"name":"Local: 递归的栈实现","url":"d:\\1_Learn\\C++\\vJudge\\递归\\递归的栈实现.cpp","tests":[{"id":1748787622263,"input":"5\n23 12 34 56 78","output":"78"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\vJudge\\递归\\递归的栈实现.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 三种序的递归实现","url":"d:\\1_Learn\\C++\\vJudge\\二叉树\\三种序的递归实现.cpp","tests":[{"id":1750169111911,"input":"","output":"递归序：1 2 4 4 4 2 5 5 5 2 1 3 6 6 6 3 7 7 7 3 1 \n先序：1 2 4 5 3 6 7 \n中序：4 2 5 1 6 3 7 \n后序：1 2 4 5 3 6 7 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1_Learn\\C++\\vJudge\\二叉树\\三种序的递归实现.cpp","group":"local","local":true}
