@@ -2,7 +2,7 @@
 using namespace std;
 #define int long long
 const int N = 5e4+10, inf = 1e11;
-int n,k,p,m,in[N],ans;
+int n,k,p,m,in[N],ans,arrive[N];
 
 struct Node{
     int v;
@@ -20,17 +20,21 @@ void topsort(){
     while(q.size()){
         auto [u,d] = q.front(); q.pop();
         cnt++;
-        cout<<u<<" ";
-        if(cnt==k) {
+        
+        if(u==k) {
             cout<<d;
             return;
         }
 
         for(auto v:g[u]){
             in[v]--;
-            if(!in[v]) q.push({v,d+1});
+            if(!in[v]) {
+                
+                q.push({v,d+1});
+            }
         }
     }
+
     cout<<-1;
 }
 
