@@ -5,6 +5,7 @@ const int N = 2e5+10, inf = 1e9, mod = 1e9+7;
 int n,m,X,Y,fa[N],vis[N];
 
 vector<vector<int> > g;
+// 对邻表排序，特简单
 
 void dfs(int u,vector<int> path){
     if(u==Y){
